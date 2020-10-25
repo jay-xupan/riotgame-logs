@@ -8,7 +8,7 @@
 /.idea/workspace.xml
 /.idea/encodings.xml
 !/.gitignore
-/riotgame-logs.iml
 src/test/
 target/
 /.gitignore
+/riotgame-logs.iml
