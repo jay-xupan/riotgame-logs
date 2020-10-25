@@ -11,3 +11,4 @@
 /riotgame-logs.iml
 src/test/
 target/
+/.gitignore
